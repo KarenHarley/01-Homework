@@ -22,11 +22,11 @@ Lower part
 
 #### Github
 
-https://github.com/KarenHarley/05-Homework
+https://github.com/KarenHarley/Horiseon-website
 
 #### Website
 
-https://karenharley.github.io/05-Homework/
+https://karenharley.github.io/Horiseon-website/
 
 ## Contact Info 
 
