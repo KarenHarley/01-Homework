@@ -6,7 +6,7 @@ Static HTML and CSS page
 
 This Website has a nice layout and if you click on the navbar links, it will take you to the appropriate section.
 
-# Tecnologies used
+# Technologies used
 
 2. CSS
 3. HTML
