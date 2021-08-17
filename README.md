@@ -1,6 +1,6 @@
 # Horiseon-website
 
-#Static HTML and CSS page
+Static HTML and CSS page
 
 ## Features:
 
