@@ -30,4 +30,4 @@ https://karenharley.github.io/Horiseon-website/
 
 ## Contact Info 
 
-karen.pretzel.365@gmail.com
+KarenHarley88@gmail.com
