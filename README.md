@@ -24,11 +24,11 @@ Lower part
 
 #### Github
 
-https://github.com/KarenHarley/Horiseon-website
+`https://github.com/KarenHarley/Horiseon-website`
 
 #### Website
 
-https://karenharley.github.io/Horiseon-website/
+`https://karenharley.github.io/Horiseon-website/`
 
 ## Contact Info 
 
